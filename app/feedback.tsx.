@@ -1,0 +1,5 @@
+In plain terms, this file handles all the little feedback and pop-up elements that make your app feel responsive and polished. Here's what it does:
+
+It creates a friendly loading screen that shows a Pi icon and a spinning animation while your app is getting ready. It also manages those quick toast messages that pop up at the top of the screen, like success alerts or helpful warnings. There's a storage notice that appears if there's a problem saving data, and two types of panels you can open: a full overlay that covers the screen with a close button, and a bottom sheet that slides up from the bottom like a drawer.
+
+These components work together quietly in the background to keep your app looking neat and professional. They handle things like telling users when something is loading, confirming actions, and providing a smooth way to open and close panels.
